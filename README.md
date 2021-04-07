@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @runqinshiye
+- 👋 Hi, I’m 潤沁軟體
 - 👀 I’m interested in vb.net & C#
 - 🌱 I’m currently learning .net5
 - 💞️ I’m looking to collaborate on health/agriculture/education
