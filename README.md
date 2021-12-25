@@ -2,7 +2,7 @@
 - 👀 I’m interested in VB.net & C# & Rust
 - 🌱 I’m currently learning .net6
 - 💞️ I’m looking to collaborate on health/agriculture/education
-- 📫 https://hagedu.com
+- 📫 http://www.hagedu.com
 
 <!---
 runqinshiye/runqinshiye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
